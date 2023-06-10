@@ -22,3 +22,7 @@ To add items to list, use li /li.
 I should have looked for shorter recipes. The pho recipe took me so long to copy paste. Cries in ctrl C ctrl V.
 
 I added a link to go back to the index. 
+
+Added titles to recipes and directory for css.
+
+Time to fancy up the page a little bit
